@@ -21,16 +21,16 @@
     ],
     "Experience": [
       {
-        "Role": "Company 2 Role",
-        "Company": "Company 2 Name",
-        "Description": "Company 2 Description",
-        "Dates": "Jan 2020 to Present"
+        "Role": "System engineer",
+        "Company": "Infosys Ltd",
+        "Description": "Infosys Limited is an Indian multinational information technology company that provides business consulting, information technology and outsourcing services. The company is headquartered in Bangalore",
+        "Dates": "April 2021 to Present"
       },
       {
-        "Role": "Company 1 Role",
-        "Company": "Company 1 Name",
-        "Description": "Company 1 Description",
-        "Dates": "Jun 2019 to Dec 2019"
+        "Role": "Image Processing Intern",
+        "Company": "TechSpiritz PVt LTD.",
+        "Description": "Intern",
+        "Dates": "JuL 2019 to Aug 2019"
       }
     ],
     "Socials": {

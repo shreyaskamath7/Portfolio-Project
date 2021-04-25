@@ -6,11 +6,14 @@ import Skills from './_Skills'
 import Intrests from './_Intrests'
 import Awards from "./_Awards"
 const Pagecontent = ({Data}) => {
+    //console.log({Data.Experience})
+    
     return (
+        
         <div className="container-fluid p-0">
             
            <About {...Data.About} Name={Data.Name} Socials={Data.Socials}/>
-           <Experience/>
+           <Experience Experience={Data.Experience}/>
             <Education/>
             <Skills/>
             <Intrests/>
