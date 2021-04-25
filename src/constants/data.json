@@ -1,0 +1,67 @@
+
+{
+    "Name": "Sushmitha Sagar",
+    "Title": "Computer Science Geek,Everything Python",
+    "ProfilePic": "https://media-exp1.licdn.com/dms/image/C4E03AQGtwZh-Z59hOA/profile-displayphoto-shrink_800_800/0/1607424068233?e=1625097600&v=beta&t=ElIoB8Vtcj-dYbsy4-KAJ24aN1ul8mUaRC131gSS4PQ",
+    "About": {
+      "Location": "Bangalore,India",
+      "Phone": "+91 987 654 3210",
+      "Email": "sushmithasagar56@gmail.com",
+      "Description": "Sushmita is an awesome Python developer..."
+    },
+    "Education": [
+      {
+        "Degree": "Bachelors of Technology",
+        "Branch": "Computer Science",
+        "University": "Sahyadri Eollege of Engineering",
+        "Description": "Bachelors of Technology in Computer Science Technology from Sahyadri College of Engineering ...",
+        "GPA": "7.6 CGPA",
+        "Dates": "Aug 2016 to Aug 2020"
+      }
+    ],
+    "Experience": [
+      {
+        "Role": "Company 2 Role",
+        "Company": "Company 2 Name",
+        "Description": "Company 2 Description",
+        "Dates": "Jan 2020 to Present"
+      },
+      {
+        "Role": "Company 1 Role",
+        "Company": "Company 1 Name",
+        "Description": "Company 1 Description",
+        "Dates": "Jun 2019 to Dec 2019"
+      }
+    ],
+    "Socials": {
+      "LinkedIn": "https://www.linkedin.com/in/sushmitha-sagar-475061201/",
+      "Instagram": "https://www.instagram.com/",
+      "Twitter": "https://twitter.com/",
+      "Facebook": null,
+      "GitHub": null
+    },
+    "Skills": {
+      "Programming": [
+        "html5",
+        "css3-alt",
+        "js-square",
+        "angular",
+        "react",
+        "node-js",
+        "sass",
+        "less",
+        "wordpress",
+        "gulp",
+        "grunt",
+        "npm"
+      ],
+      "Workflow": [
+        "Mobile-First, Responsive Design",
+        "Cross Browser Testing &amp; Debugging",
+        "Cross Functional Teams",
+        "Agile Development &amp; Scrum"
+      ]
+    },
+    "Interests": ["Something...", "Some more thing..."],
+    "Awards": ["First Cup", "First Cup"]
+  }
