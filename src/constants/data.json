@@ -17,7 +17,24 @@
         "Description": "Bachelors of Technology in Computer Science Technology from Sahyadri College of Engineering ...",
         "GPA": "7.6 CGPA",
         "Dates": "Aug 2016 to Aug 2020"
+      },
+      {
+        "Degree": "Pre University",
+        "Branch": "PCMB",
+        "University": "Vidyodaya Pre- University college Udupi",
+        "Description": "STATE BOARD ...",
+        "GPA": "86%",
+        "Dates": "2014 to 2016"
+      },
+      {
+        "Degree": "10th",
+        "Branch": "Computer Science",
+        "University": "Sahyadri Eollege of Engineering",
+        "Description": "Bachelors of Technology in Computer Science Technology from Sahyadri College of Engineering ...",
+        "GPA": "7.6 CGPA",
+        "Dates": "Aug 2016 to Aug 2020"
       }
+
     ],
     "Experience": [
       {

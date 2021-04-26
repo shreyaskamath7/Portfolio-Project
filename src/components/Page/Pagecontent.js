@@ -6,7 +6,7 @@ import Skills from './_Skills'
 import Intrests from './_Intrests'
 import Awards from "./_Awards"
 const Pagecontent = ({Data}) => {
-    //console.log({Data.Experience})
+    //console.log({...Data.Education})
     
     return (
         
@@ -14,7 +14,7 @@ const Pagecontent = ({Data}) => {
             
            <About {...Data.About} Name={Data.Name} Socials={Data.Socials}/>
            <Experience Experience={Data.Experience}/>
-            <Education/>
+            <Education Education={Data.Education}/>
             <Skills/>
             <Intrests/>
             <Awards/>
